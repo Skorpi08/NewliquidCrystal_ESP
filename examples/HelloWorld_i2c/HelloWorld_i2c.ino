@@ -19,6 +19,7 @@ const uint8_t charBitmap[][8] = {
 void setup()
 {
    int charBitmapSize = (sizeof(charBitmap ) / sizeof (charBitmap[0]));
+  //Wire.begin(D6,D5); // (sda, scl) setzen vor lcd.print() für ESP8266
   lcd.begin(20,4);               // initialize the lcd 
 
    for ( int i = 0; i < charBitmapSize; i++ )

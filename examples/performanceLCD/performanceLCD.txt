@@ -1,0 +1,17 @@
+1
+2
+3
+benchmark0: 382 us -  write: 4.66 us
+benchmark1: 4371 us -  write: 4.55 us
+benchmark2: 370 us -  write: 8.81 us
+benchmark3: 389 us -  write: 9.26 us
+avg. write: 6.82
+0
+1
+2
+3
+benchmark0: 378 us -  write: 4.61 us
+benchmark1: 4369 us -  write: 4.55 us
+benchmark2: 369 us -  write: 8.79 us
+benchmark3: 397 us -  write: 9.45 us
+avg. write: 6.85

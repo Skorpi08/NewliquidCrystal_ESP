@@ -18,3 +18,15 @@ SR2W           53uS       557.35      1.79ms
 SR_2W          53uS       554.66      1.80ms
 SR_3W          50uS       591.40      1.69ms
 SR3W           56uS       524.91      1.91ms
+
+
+80Mhz Wemos D1 Mini
+Interface    ByteXfer    16x2FPS      Ftime
+----------------------------------------------
+I2C          856uS       34.76      28.78ms 
+
+
+80Mhz Wemos D1 Mini
+Interface    ByteXfer    20x4FPS      Ftime
+----------------------------------------------
+I2C          856uS       13.90      71.94ms 
